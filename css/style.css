@@ -212,6 +212,10 @@ header {
 .intro a {
 	color:#000;
 }
+#No_MP{
+	margin: 0;
+	padding: 0;
+}
 
 /* --- Parallax --- */
 .parallax {
