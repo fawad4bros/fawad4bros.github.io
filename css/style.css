@@ -19,8 +19,8 @@ body {
 	overflow: hidden;
    
 	position: fixed;
-	left: 5%;
-	bottom: 5%;
+	left: 2%;
+	bottom: 25%;
 	width: 100%;
   }
   .iconify{
@@ -56,10 +56,11 @@ body {
 	  
 	  .sidenav .closebtn {
 		position: absolute;
-		top: 0;
-		right: 25px;
+		top: 50px;
+		right: 50px;
+		/* bottom: 5px; */
 		font-size: 36px;
-		margin-left: 50px;
+		/* margin-left: 60px; */
 	  }
 	  
 	  @media screen and (max-height: 600px) {
