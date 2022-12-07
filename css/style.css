@@ -21,11 +21,20 @@ body {
 	position: fixed;
 	left: 2%;
 	bottom: 25%;
-	width: 15%;
+	width: 10%;
 	
   }
   @media screen and (max-width: 830px) {
 	#menu {display: none;}
+	.Snavbar {
+		overflow: hidden;
+		z-index: 7;
+		position: fixed;
+		left: 2%;
+		bottom: 25%;
+		width: 5%;
+		
+	  }
   }
   .iconify{
 	color: #92DD03;
