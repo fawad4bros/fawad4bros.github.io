@@ -21,7 +21,11 @@ body {
 	position: fixed;
 	left: 2%;
 	bottom: 25%;
-	width: 100%;
+	width: 25%;
+	
+  }
+  @media screen and (max-width: 830px) {
+	#menu {display: none;}
   }
   .iconify{
 	color: #92DD03;
